@@ -1,0 +1,159 @@
+CSC120 Computer Programming I 2025 Spring
+
+CSC120 Computer Programming I teaches its students the fundamental skills for programming in Java. By the end of the course, the students will learn the following:
+
+. Using an interactive development environment for editing and executing programs
+. The fundamental Java source code structure (classes and interfaces)
+. Leaving comments to Java programs
+. Compilation
+. Importing codes from libraries
+. Generating command-line outputs
+. Reading data from files
+. Write data to files
+. Processing keyboard inputs
+. Java data types (declarations and their scope) 
+. Variables and constants (declarations and assignments)
+. Procedural decompositions
+. Passing data between methods
+. Text formatting
+. Using Mathematical functions in the standard library
+. The boolean data type and conditional executions
+. Creating menus using switch statements
+. Using for-loops, while-loops, and do-while loops for repeated executions
+. Throwing and handling exceptions
+. Single-dimensional and multiple-dimensional arrays
+. Writing object classes
+. Instance variables and class constants
+. Visibility of methods and variables
+. Code extensions
+. Inheritance and polymorphism
+. Writing recursive methods
+. Testing code units
+
+The times to meet.
+. Lecture Sections: TR 3:30-4:45 PM, Witten Learning Center 160
+. Laboratory Sections: Ungar 305
+
+The textbook. A copy of the textbook written by the lecture instructor Ogihara
+
+. Ogihara M. (2018), Fundamentals of Java Programming, Springer International
+
+will be available through the Blackboard site. Also,
+
+. Reges S., Stepp M. (2020), Building Java Programs: A Back to Basics Approach 5th Edition, Pearson
+
+is a useful textbook.
+
+
+Assessment. The course grade will be based on the following:
+. Weekly Review Assignments - 10%
+. Programming Project - 21%
+. Laboratory Tasks (graded by the lab instruction team) - 33%
+. Midterm Test (Tuesday or Thursday before the Spring break) - 12%
+. Final Exam (2:00 PM - 4:30 PM; date TBD) - 24%
+
+Laboratory Tasks: The laboratory sessions are held in Room 305 of Ungar. You must appear in the lab and work with the lab instructor and the lab section's TA to complete the lab task. Incomplete work will result in partial credit. The lab task will be posted by no later than Thursday in the previous week. You may work on the assignments before your lab, but you must demonstrate your knowledge of the code. Each lab assignment is graded in a 10-point scale.
+
+Weekly Review Assignments: A set of review questions or review programming tasks will be assigned. Gradescope will be used for giving questions and collecting answers. You must submit the assignment through Gradescope by uploading your answer sheet. The deadline for submitting your weekly assignment will be Sunday 11:59 PM. Gradescope is
+
+Midterm and Final Exams: These are timed tests.  Gradescope will be used for administerng the exams.  The students must come to the classroom to take them and submit their answers through the site.
+
+Programming Project: The project will be given ahead of time. Each student must submit the code for the task and a document describing the code design.
+
+Regarding the programming project and lab assignments, no late submissions will be accepted. Tardiness due to illness and family/athletic travels will be accepted if proper documentation is provided. The students must follow the university's guidelines for tardiness.
+
+Collaboration/Consultation: Each assignment task must be completed individually. For non-exam items, the students may discuss among themselves what techniques could be applicable to solve them, but copying someone else's work with little modifications will be considered plagiarism. The code available through resources like StackExchange, YouTube, and ChatGPT is considered someone else's work.
+
+The University of Miami Policy on plagiarism: The students must refer to the honor code. All students are bound by the Academic Integrity Policy, intended to promote and support an atmosphere conducive to learning. Each student’s work is to be their own unless express permission is given by the instructor. Additionally, while students are bound by the policy, faculty are also bound to report violations as offered in the policy. When there is a suspected violation, the university requires the instructor report the incident promptly to the Department Chair and submit an academic integrity reporting form. The report will be examined by the Dean of Undergraduate Studies of Arts and Sciences. Once the case has been reported, it leaves the hands of the instructor. The students are encouraged to refer to the Student Rights and Responsibilities Handbook.
+
+A tentative class schedule:
+
+Week1
+01/13 (M) Lab #1: IntelliJ + System.out.print
+01/14 (T) Hello, World!
+01/16 (R) Data
+
+Week2
+01/20 (M) Review Assignment #1 Due
+01/21 (T) Data
+01/23 (R) Scanner for Input
+
+Week3
+01/27 (M) Review Assignment #2 Due
+01/27 (M) Lab #2: Data Types and Scanner
+01/28 (T) Decomposition
+01/30 (R) Passing/Math/PrintF
+
+Week4
+02/03 (M) Review Assignment #3 Due
+02/03 (M) Lab #3: Mathematical Functions & Procedural Decomposition
+02/04 (T) Conditions
+02/06 (R) Conditions
+
+Week5
+02/10 (M) Review Assignment #4 Due
+02/10 (M) Lab #4: Conditions
+02/11 (T) Switch
+02/13 (R) String
+
+Week6
+02/17 (M) Review Assignment #5 Due
+02/17 (M) Lab #5: Strings
+02/18 (T) Loops
+02/20 (R) Loops
+
+Week7
+02/24 (M) Review Assignment #6 Due
+02/24 (M) Lab #6: For-loops
+02/25 (T) Loops
+02/27 (R) Loops
+
+Week8
+03/03 (M) Review Assignment #7 Due
+03/03 (M) Lab make-up. You can work on one missed lab assignmentfrom labs 1-6 to receive partial credit (no more than 5 lab points can be earned).
+03/04 (T) Arrays
+03/06 (R) Midterm
+
+03/08 - 03/16 SPRING BREAK
+
+Week9
+03/17 (M) Lab #7: While-loops
+03/18 (T) Arrays
+03/19 (R) File
+
+Week10
+03/24 (M) Review Assignment #8 Due
+03/24 (M) Lab #8: While-loops
+03/25 (T) Arrays
+03/27 (R) Arrays
+
+Week11
+03/31 (M) Project Part 1 Due
+03/31 (M) Review Assignment #9 Due
+03/31 (M) Lab #9: Arrays
+04/01 (T) Objects
+04/03 (R) Objects
+
+Week12
+04/07 (M) Review Assignment #10 Due
+04/07 (M) Lab #10: Arrays
+04/08 (T) Objects
+04/10 (R) Interface
+
+Week13
+04/14 (M) Review Assignment #11 Due
+04/14 (M) Lab #11: Objects
+04/15 (T) Abstract Class
+04/17 (R) Recursion
+
+Week14
+04/21 (M) Review Assignment #12 Due
+04/21 (M) Lab #12: Objects
+04/22 (T) Java Collections Framework
+04/24 (R) Java Collections Framework
+
+Week15
+04/28 (M) Lab make-up. You can work on one missed lab assignmentfrom labs 7-12 to receive partial credit (no more than 5 lab points can be earned).
+04/28 (M) Project Part 2 Due
+
+04/30 - May 05 Final Days
