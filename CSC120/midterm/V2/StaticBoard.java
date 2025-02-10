@@ -1,7 +1,7 @@
 import java.util.*;
 
 // The template class
-public class StaticBoardEverett {
+public class StaticBoard{
 
   /*
     ---------------------------------Variables-------------------------------------
@@ -168,6 +168,7 @@ public class StaticBoardEverett {
   }
 
 
+
   /*
     ---------------------------------Project Part1-------------------------------------
   */
@@ -202,8 +203,6 @@ public class StaticBoardEverett {
      */
 
   }
-
-
 
 
   /**
@@ -247,30 +246,84 @@ public class StaticBoardEverett {
 
 
 
-  /**
-   * the main() method
+   /* The main() method
+   * As long as the board is open and the winner does
+   * not exist, do the following:
+   * 1. Present the board
+   * 2. Receive, from the user, a valid column number
+   *    choice for Player 1.
+   * 3. Play the piece on the board using the method add().
+   * 4. Use isWinner() to determine if Player 1 has won.
+   * 5. If Player 1 has won,
+   *      present the board, report that Player 1 has won,
+   *      and terminate the game.
+   * 6. If Player 1 has not won, repeat 1 - 5 for Player 2.
+   * When the board is not open and the winner does not
+   * exist, present the board and reports that the game
+   * was a draw.
    */
   public static void main( String[] args ) {
     //initialize the board
     String[] board;
     board = initialize();
 
-    /* As long as the board is open and the winner does
-     * not exist, do the following:
-     * 1. Present the board
-     * 2. Receive, from the user, a valid column number
-     *    choice for Player 1.
-     * 3. Play the piece on the board using the method add().
-     * 4. Use isWinner() to determine if Player 1 has won.
-     * 5. If Player 1 has won,
-     *      present the board, report that Player 1 has won,
-     *      and terminate the game.
-     * 6. If Player 1 has not won, repeat 1 - 5 for Player 2.
-     * When the board is not open and the winner does not
-     * exist, present the board and reports that the game
-     * was a draw.
+     /**
+     * @TODO main() method body
      */
 }
+
+  /*
+    ---------------------------------Project Part2-------------------------------------
+  */
+
+  /**
+   * @TODO Modify the main() method so that player 2 is the computer
+   */
+
+  /**
+   * @param	board the board
+   * @param	player the player number
+   * @return the first column that is a winning column
+   *		-1 if no winning column
+   */
+  static int playerLogic( String[] board, int player ) {
+
+    /**
+     * @TODO write the column selection mechanism for Player 2 (computer) here
+     */
+
+      return -1;
+    }
+
+  /**
+   * Select a random playable column when there is no winning column
+   * @param	board the board
+   * @return random available column
+   */
+  static int randomColumn( String[] board ) {
+    /**
+     * @TODO write the random column selection mechanism here
+     */
+  }
+
+
+
+  /**
+   * @param	anything
+   * @return anything
+   *
+   * Write your own helper method(s) to complete part 2
+   * You can create as many methods as you want, or delete this if you don't need any
+   * Use whatever parameters and return value
+   */
+    static void yourHelperMethod ( ){
+
+      /**
+       * @TODO rename this and write your own helper methods
+       */
+
+    }
+
 
 
 }
